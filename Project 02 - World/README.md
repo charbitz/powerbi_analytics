@@ -14,7 +14,7 @@ This dataset is a sample dataset of the MySQL workbench. It contains three CSV f
 
 ## World dataset - Dashboard
 
-![Here is a screenshot of the dashboard ]()
+![Here is a screenshot of the dashboard ](https://github.com/charbitz/powerbi_analytics/blob/main/Project%2002%20-%20World/dashboard_screenshot.jpg)
 
 
 ## How to Use
@@ -25,7 +25,7 @@ This dataset is a sample dataset of the MySQL workbench. It contains three CSV f
    - Extract the three tables as CSV files 
 
 2. **Open the Power BI File**:
-   - Open the [`world_dataset.pbix`]() file in Power BI Desktop.
+   - Open the [`world_dataset.pbix`](https://github.com/charbitz/powerbi_analytics/blob/main/Project%2002%20-%20World/world_dataset.pbix) file in Power BI Desktop.
    - Ensure the dataset path is correctly linked if using a local dataset.
 
 3. **Explore the Dashboard**:
