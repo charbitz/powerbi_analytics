@@ -17,12 +17,11 @@ You can find the dataset at [Kaggle](https://www.kaggle.com/datasets/shivamb/ama
 
 1. **Download the Dataset**:
    - Download the dataset from [Kaggle](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows/data).
-   - Place the CSV file in this directory.
 
 2. **Open the Power BI File**:
-   - Open the `amazon_prime_movies_tv-shows_dataset.pbix` file in Power BI Desktop.
+   - Open the [`amazon_prime_movies_tv-shows_dataset.pbix`](https://github.com/charbitz/powerbi_analytics/blob/main/Project%2001%20-%20Amazon%20Prime%20Movies%20and%20TV-shows/amazon_prime_movies_tv-shows_dataset.pbix) file in Power BI Desktop.
    - Ensure the dataset path is correctly linked if using a local dataset.
 
 3. **Explore the Dashboard**:
    - Interact with the dashboard to explore insights.
-   - Use filters to focus on specific genres, countries, or time periods.
+
