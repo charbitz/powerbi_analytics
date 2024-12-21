@@ -2,19 +2,16 @@
 
 This directory contains a Power BI dashboard project for analyzing the **Amazon Prime Movies and TV Shows** dataset. The dataset provides information about movies and TV shows available on Amazon Prime, including titles, genres, release years, and more.
 
----
 
 ## Dataset
 
 You can find the dataset at [Kaggle](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows/data).
 
----
 
 ## Amazon Prime Movies and TV Shows - Dashboard
 
-![Here is a screenshot of the dashboard ](Project 01 - Amazon Prime dataset\dashboard_screenshot.jpg)
+![Here is a screenshot of the dashboard ](Project 01 - Amazon Prime Movies and TV-shows\dashboard_screenshot.jpg)
 
----
 
 ## How to Use
 
