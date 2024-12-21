@@ -10,7 +10,7 @@ You can find the dataset at [Kaggle](https://www.kaggle.com/datasets/shivamb/ama
 
 ## Amazon Prime Movies and TV Shows - Dashboard
 
-![Here is a screenshot of the dashboard ](Project 01 - Amazon Prime Movies and TV-shows\dashboard_screenshot.jpg)
+![Here is a screenshot of the dashboard ](https://github.com/charbitz/powerbi_analytics/blob/main/Project%2001%20-%20Amazon%20Prime%20Movies%20and%20TV-shows/dashboard_screenshot.jpg)
 
 
 ## How to Use
