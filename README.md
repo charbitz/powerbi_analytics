@@ -12,5 +12,7 @@ This is a github repo to showcase my experience and work on different kinds of d
    Analyze trends, genres, and IMDb ratings of Amazon Prime's content catalog.  
    You can find this project [here](https://github.com/charbitz/powerbi_analytics/tree/main/Project%2001%20-%20Amazon%20Prime%20Movies%20and%20TV-shows).
 
-
+2. **Project 02 - World dataset Analytics**  
+   Analyze the **World** sample database of **MYSQL**.  
+   You can find this project [here](https://github.com/charbitz/powerbi_analytics/tree/main/Project%2001%20-%20Amazon%20Prime%20Movies%20and%20TV-shows).
 
