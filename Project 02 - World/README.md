@@ -20,14 +20,13 @@ This dataset is a sample dataset of the MySQL workbench. It contains three CSV f
 ## How to Use
 
 1. **Download the Dataset**:
-   - Open the MySQL Workbench 
-   - Locate the dataset IN MySQL Workbench following instructons from [here](https://dev.mysql.com/doc/world-setup/en/).
+   - Open MySQL Workbench 
+   - Locate the dataset in MySQL Workbench following instructons from [here](https://dev.mysql.com/doc/world-setup/en/).
    - Extract the three tables as CSV files 
 
-2. **Open the Power BI File**:
-   - Open the [`world_dataset.pbix`](https://github.com/charbitz/powerbi_analytics/blob/main/Project%2002%20-%20World/world_dataset.pbix) file in Power BI Desktop.
-   - Ensure the dataset path is correctly linked if using a local dataset.
+2. **Open the Power BI Desktop**:
+   - Open the Power BI Desktop and import the three CSV files.
 
-3. **Explore the Dashboard**:
-   - Interact with the dashboard to explore insights.
+3. **Explore the uploaded Dashboard**:
+   - Open the [`world_dataset.pbix`](https://github.com/charbitz/powerbi_analytics/blob/main/Project%2002%20-%20World/world_dataset.pbix) file in Power BI Desktop.
 
