@@ -14,5 +14,5 @@ This is a github repo to showcase my experience and work on different kinds of d
 
 2. **Project 02 - World dataset Analytics**  
    Analyze the **World** sample database of **MYSQL**.  
-   You can find this project [here](https://github.com/charbitz/powerbi_analytics/tree/main/Project%2001%20-%20Amazon%20Prime%20Movies%20and%20TV-shows).
+   You can find this project [here](https://github.com/charbitz/powerbi_analytics/tree/main/Project%2002%20-%20World).
 
